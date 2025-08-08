@@ -1,189 +1,20 @@
-{
-  "generatedAt": "2025-08-08T16:12:34.909820Z",
-  "timezone": "Europe/Istanbul",
-  "days": [
-    {
-      "date": "2025-08-08",
-      "matches": [
-        {
-          "league": "Test Lig",
-          "homeTeam": "Ev Takımı 0",
-          "awayTeam": "Deplasman Takımı 0",
-          "date": "2025-08-08",
-          "time": "20:00",
-          "homeForm": "W W D W W",
-          "awayForm": "L D L W D",
-          "homeAvgGoals": 2.1,
-          "awayAvgGoals": 0.8,
-          "homeConcedeAvg": 0.7,
-          "awayConcedeAvg": 1.6,
-          "leaguePositionHome": 1,
-          "leaguePositionAway": 13,
-          "h2hLast5": "3W 1D 1L",
-          "expectedGoalsHome": 1.95,
-          "expectedGoalsAway": 0.85,
-          "injurySuspensionNote": "Home full squad; Away missing 1 CB",
-          "betType": "MS 1",
-          "bankoScore": 82,
-          "odds": {
-            "nesine": {
-              "bet": "MS 1",
-              "value": 1.65,
-              "updatedAt": "2025-08-08T16:12:34.909991Z"
-            }
-          }
-        },
-        {
-          "league": "Test Lig",
-          "homeTeam": "Ev Takımı 1",
-          "awayTeam": "Deplasman Takımı 1",
-          "date": "2025-08-08",
-          "time": "20:00",
-          "homeForm": "W W D W W",
-          "awayForm": "L D L W D",
-          "homeAvgGoals": 2.1,
-          "awayAvgGoals": 0.8,
-          "homeConcedeAvg": 0.7,
-          "awayConcedeAvg": 1.6,
-          "leaguePositionHome": 1,
-          "leaguePositionAway": 13,
-          "h2hLast5": "3W 1D 1L",
-          "expectedGoalsHome": 1.95,
-          "expectedGoalsAway": 0.85,
-          "injurySuspensionNote": "Home full squad; Away missing 1 CB",
-          "betType": "MS 1",
-          "bankoScore": 82,
-          "odds": {
-            "nesine": {
-              "bet": "MS 1",
-              "value": 1.65,
-              "updatedAt": "2025-08-08T16:12:34.909997Z"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-08-09",
-      "matches": [
-        {
-          "league": "Test Lig",
-          "homeTeam": "Ev Takımı 0",
-          "awayTeam": "Deplasman Takımı 0",
-          "date": "2025-08-09",
-          "time": "20:00",
-          "homeForm": "W W D W W",
-          "awayForm": "L D L W D",
-          "homeAvgGoals": 2.1,
-          "awayAvgGoals": 0.8,
-          "homeConcedeAvg": 0.7,
-          "awayConcedeAvg": 1.6,
-          "leaguePositionHome": 1,
-          "leaguePositionAway": 13,
-          "h2hLast5": "3W 1D 1L",
-          "expectedGoalsHome": 1.95,
-          "expectedGoalsAway": 0.85,
-          "injurySuspensionNote": "Home full squad; Away missing 1 CB",
-          "betType": "MS 1",
-          "bankoScore": 82,
-          "odds": {
-            "nesine": {
-              "bet": "MS 1",
-              "value": 1.65,
-              "updatedAt": "2025-08-08T16:12:34.910006Z"
-            }
-          }
-        },
-        {
-          "league": "Test Lig",
-          "homeTeam": "Ev Takımı 1",
-          "awayTeam": "Deplasman Takımı 1",
-          "date": "2025-08-09",
-          "time": "20:00",
-          "homeForm": "W W D W W",
-          "awayForm": "L D L W D",
-          "homeAvgGoals": 2.1,
-          "awayAvgGoals": 0.8,
-          "homeConcedeAvg": 0.7,
-          "awayConcedeAvg": 1.6,
-          "leaguePositionHome": 1,
-          "leaguePositionAway": 13,
-          "h2hLast5": "3W 1D 1L",
-          "expectedGoalsHome": 1.95,
-          "expectedGoalsAway": 0.85,
-          "injurySuspensionNote": "Home full squad; Away missing 1 CB",
-          "betType": "MS 1",
-          "bankoScore": 82,
-          "odds": {
-            "nesine": {
-              "bet": "MS 1",
-              "value": 1.65,
-              "updatedAt": "2025-08-08T16:12:34.910011Z"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "date": "2025-08-10",
-      "matches": [
-        {
-          "league": "Test Lig",
-          "homeTeam": "Ev Takımı 0",
-          "awayTeam": "Deplasman Takımı 0",
-          "date": "2025-08-10",
-          "time": "20:00",
-          "homeForm": "W W D W W",
-          "awayForm": "L D L W D",
-          "homeAvgGoals": 2.1,
-          "awayAvgGoals": 0.8,
-          "homeConcedeAvg": 0.7,
-          "awayConcedeAvg": 1.6,
-          "leaguePositionHome": 1,
-          "leaguePositionAway": 13,
-          "h2hLast5": "3W 1D 1L",
-          "expectedGoalsHome": 1.95,
-          "expectedGoalsAway": 0.85,
-          "injurySuspensionNote": "Home full squad; Away missing 1 CB",
-          "betType": "MS 1",
-          "bankoScore": 82,
-          "odds": {
-            "nesine": {
-              "bet": "MS 1",
-              "value": 1.65,
-              "updatedAt": "2025-08-08T16:12:34.910019Z"
-            }
-          }
-        },
-        {
-          "league": "Test Lig",
-          "homeTeam": "Ev Takımı 1",
-          "awayTeam": "Deplasman Takımı 1",
-          "date": "2025-08-10",
-          "time": "20:00",
-          "homeForm": "W W D W W",
-          "awayForm": "L D L W D",
-          "homeAvgGoals": 2.1,
-          "awayAvgGoals": 0.8,
-          "homeConcedeAvg": 0.7,
-          "awayConcedeAvg": 1.6,
-          "leaguePositionHome": 1,
-          "leaguePositionAway": 13,
-          "h2hLast5": "3W 1D 1L",
-          "expectedGoalsHome": 1.95,
-          "expectedGoalsAway": 0.85,
-          "injurySuspensionNote": "Home full squad; Away missing 1 CB",
-          "betType": "MS 1",
-          "bankoScore": 82,
-          "odds": {
-            "nesine": {
-              "bet": "MS 1",
-              "value": 1.65,
-              "updatedAt": "2025-08-08T16:12:34.910023Z"
-            }
-          }
-        }
-      ]
+[
+  {
+    "date": "2025-08-09",
+    "time": "20:00",
+    "league": "Test Lig",
+    "homeTeam": "Tunirspor",
+    "awayTeam": "Rakipspor",
+    "homeForm": "W W W W W",
+    "awayForm": "L L L D D",
+    "homeAvgGoals": 3.2,
+    "awayAvgGoals": 0.7,
+    "bankoScore": 90,
+    "betType": "MS 1",
+    "odds": {
+      "nesine": {
+        "value": 1.60
+      }
     }
-  ]
-}
+  }
+]
